@@ -26,8 +26,7 @@ Dentro de Android Studio:
 
 <div align="center">
     <center>
-        <img src="/img/device-2017-05-02-200119.png" width="300">
-
+        <img src="/img/device-2017-05-02-200119.png" width="300"/>
     </center>
 </div>
 <br><br>
